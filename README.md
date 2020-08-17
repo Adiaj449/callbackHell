@@ -10,6 +10,7 @@ Do not use recursion.
 Use call back hell to deploy the timer.
 All JavaScript codes should be in a script file named script.js which has to be imported in your HTML page.
 
-How do I submit my work?
-Deploy your web application in Netlify (https://www.netlify.com).
-Push all your work files to GitHub.
+Visit :- 
+# callback-hell-task.netlify.app
+
+
